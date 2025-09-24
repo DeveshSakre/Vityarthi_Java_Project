@@ -5,7 +5,7 @@ This project demonstrates **Java OOP concepts, advanced features, and file handl
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Requirements
 - Java JDK 17+ installed  
